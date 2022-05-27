@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa4313F8ba9e8F4d1cF2F9076c8c2b87d6a0D74bb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa4313f8ba9e8f4d1cf2f9076c8c2b87d6a0d74bb",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Solana Science Ape Club",
+  "SYMBOL": "SSAC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 300000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
